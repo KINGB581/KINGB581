@@ -1,5 +1,5 @@
-# heyy i am BEEES 
-# Computer tech student
+# Hey i am BEEES 
+# Computer Tech student
 i am passionate about cybersecurity , ethical hacking ,and system security
  ###Interests
 --Networking
