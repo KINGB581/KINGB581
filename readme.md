@@ -1,4 +1,3 @@
-'''python
 # Hey i am BEEES 
 ## Computer Tech student
 i am passionate about cybersecurity , ethical hacking ,and system security
