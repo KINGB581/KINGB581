@@ -6,8 +6,4 @@ i am passionate about cybersecurity , ethical hacking ,and system security
 -Linux
 -Malware Analyst
 -Penetration testing
-###tools i use
--Nmap
--Wireshark
--Burp suite
--Metasploit
+****D3F4ULT******
